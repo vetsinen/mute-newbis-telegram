@@ -1,1 +1,1 @@
-telegram bot for automatical muting new users in chat
+telegram bot for automatic muting new users in chat
